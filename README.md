@@ -40,7 +40,8 @@ This project implements a **License Plate Recognition Model** capable of detecti
 3. Run the Jupyter Notebook:  
    - Upload your image or video files.  
    - Configure the parameters as needed for your use case.  
-   - Execute the model to detect and extract license plate details.  
+   - Execute the model to detect and extract license plate details.
+   - The link to get the sample images and videos I used can be found [Here](https://drive.google.com/drive/folders/1ckYl_E4b_STk0cKndk92Qrzzo9yDML1p?usp=drive_link)
 
 ## Contributions  
 Contributions are welcome! Feel free to fork the repository, suggest improvements, or report issues.  
