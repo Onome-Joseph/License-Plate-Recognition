@@ -3,7 +3,8 @@
 ## Overview  
 This project implements a **License Plate Recognition Model** capable of detecting license plates from images and videos, extracting the license plate text, and displaying it. The model is specifically programmed for the **United Kingdom license plate format** but can be easily reconfigured to work with other countries' formats. 
 
-![Preview of the detected output with displayed license plate text](https://github.com/Onome-Joseph/License-Plate-Recognition/blob/main/media/sample_preview.mp4)
+## Detected output with displayed license plate text
+https://github.com/user-attachments/assets/aa586775-a2fe-4ecf-9e13-374165c7b35a
 
 ## Key Features  
 - **Accurate Detection**: Identifies license plates in images and videos with high precision.  
