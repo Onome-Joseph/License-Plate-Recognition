@@ -1,6 +1,4 @@
 # License Plate Recognition Model  
-
-## Overview  
 This project implements a **License Plate Recognition Model** capable of detecting license plates from images and videos, extracting the license plate text, and displaying it. The model is specifically programmed for the **United Kingdom license plate format** but can be easily reconfigured to work with other countries' formats. 
 
 ## Detected output with displayed license plate text
